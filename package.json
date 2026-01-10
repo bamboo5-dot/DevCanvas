@@ -77,6 +77,6 @@
 		"svelte-splitpanes": "^8.0.9",
 		"thememirror": "^2.0.1",
 		"wkhtmltoimage": "^0.1.5",
-		"zod": "^3.24.2"
+		"zod": "^3.25.76"
 	}
 }
