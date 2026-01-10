@@ -57,7 +57,7 @@
 		"@supabase/auth-helpers-sveltekit": "^0.10.1",
 		"@supabase/supabase-js": "^2.31.0",
 		"ai": "^4.3.2",
-		"caniuse-lite": "^1.0.30001546",
+		"caniuse-lite": "^1.0.30001761",
 		"codemirror": "^6.0.1",
 		"countup.js": "^2.6.0",
 		"js-beautify": "^1.15.1",
